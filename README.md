@@ -2,8 +2,6 @@
     <img alt="Launchbase" src="https://storage.googleapis.com/golden-wind/bootcamp-launchbase/logo.png" width="400px" />
 </h1>
 
-<blockquote align="center">“Sua única limitação é você mesmo!”</blockquote>
-
 <p align="center">
 
   <a href="https://rocketseat.com.br">
